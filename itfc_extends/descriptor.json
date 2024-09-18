@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "bc5baf10-e58a-7a7b-a41f-6494fa29f593",
+    "Name": "itfc_extends",
+    "ModifiedOnUtc": "\/Date(1726682177000)\/",
+    "Maintainer": "Customer",
+    "Description": "this package is an extend for itfc main package",
+    "DependsOn": [
+      {
+        "UId": "84f4b000-cac8-21d0-0cb3-0742b5b2ad88",
+        "Name": "itfc",
+        "Type": 1
+      }
+    ]
+  }
+}
